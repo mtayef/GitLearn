@@ -10,7 +10,7 @@ public class Test1 {
 	}
 	@Test
 	public static void mergeTest() {
-		System.out.println("Test1");
+		System.out.println("merge Test");
 	}
 	
 }
